@@ -25,6 +25,6 @@ My group decided on the topic of predicting musical genres because of our common
   - I trained the model using the scaled X training set and the y training set with 500 estimators
 - Results
   - Using the entire dataset, the model's accuracy started at 51.6%
-  - Filtering the data to only include songs with matching categories and genres, the accuracy increased to 70.7%
-  - The model's weighted average precision score was 0.70
-  - The model's weighted average recall score was 0.71
+  - Filtering the data to only include songs with matching categories and genres, the accuracy increased to 72.1%
+  - The model's weighted average precision score was 0.73
+  - The model's weighted average recall score was 0.72d
