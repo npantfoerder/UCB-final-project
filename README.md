@@ -27,4 +27,4 @@ My group decided on the topic of predicting musical genres because of our common
   - Using the entire dataset, the model's accuracy started at 51.6%
   - Filtering the data to only include songs with matching categories and genres, the accuracy increased to 72.1%
   - The model's weighted average precision score was 0.73
-  - The model's weighted average recall score was 0.72d
+  - The model's weighted average recall score was 0.72
