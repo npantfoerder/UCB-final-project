@@ -1,6 +1,6 @@
 # UCB Final Project
 ## Link to Google Slides Presentation
-Here is the link to the presentation: https://docs.google.com/presentation/d/1nddvQA9pJ1J52MaG6unWViKxsb_lgtQ5arq4Pr88yl0/edit?usp=sharing 
+https://docs.google.com/presentation/d/1nddvQA9pJ1J52MaG6unWViKxsb_lgtQ5arq4Pr88yl0/edit?usp=sharing 
 
 ## Project Overview
 My group decided on the topic of predicting musical genres because of our common interest in music. Being in charge of the machine learning portion, I chose to create a model that would predict a song's genre based on lyrics and audio features. The steps of my work are outlined below:
