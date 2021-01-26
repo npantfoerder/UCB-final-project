@@ -10,7 +10,7 @@ My group decided on the topic of predicting musical genres because of our common
 - Then I created a natural language processing pipeline that tokenized the lyrics and removed stop words
 - Lastly, I created a DataFrame containing the term frequenices of each song
 ### Data Analysis
-- Looking at top words and word count distributions by genre and popularity I created DataFrames for the following:
+- Looking at top words and word count distributions by genre and popularity I created DataFrames for each of the following:
   - Top ten words for each genre
   - Top ten co-occurring words for each genre
   - Word count distributions for each genre
