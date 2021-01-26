@@ -8,7 +8,7 @@ My group decided on the topic of predicting musical genres because of our common
   - Using the Spotify and Genius APIs, my first task was to create a CSV file filled with song data
   - The next step was to filter the songs based on language and clean all of the song lyrics
   - Then I created a natural language processing pipeline that tokenized the lyrics and removed stop words
-  - Lastly I created a DataFrame containing the term frequenices of each song
+  - Lastly, I created a DataFrame containing the term frequenices of each song
 - Data Analysis
   - Looking at top words and word count distributions by genre and popularity I created DataFrames for the following:
     - Top ten words for each genre
