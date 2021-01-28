@@ -29,6 +29,11 @@ My group decided on the topic of predicting musical genres because of our common
 - The model's weighted average precision score was 0.73
 - The model's weighted average recall score was 0.72
 
+## Future Analysis
+- Common phrases could be further explored to determine the impact of word order
+- Pulling song data from select playlists for each genre might decrease the crossover between genres
+- The model could be run on only two genres in order to see which genres are the most similar and different
+
 ## Resources
 - Data Sources: Spotify and Genius APIs
 - Software: Python 3.7.3, Anaconda 4.8.3, Scikit-learn 0.23.1
