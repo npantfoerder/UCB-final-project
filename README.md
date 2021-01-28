@@ -29,6 +29,12 @@ My group decided on the topic of predicting musical genres because of our common
 - Filtering the data to only include songs with matching categories and genres, the accuracy increased to 72.1%
 - The model's weighted average precision score was 0.73
 - The model's weighted average recall score was 0.72
+- Below are screenshots of the final output:
+  - Confusion matrix:
+  <img src='https://github.com/npantfoerder/UCB-final-project/blob/master/Model/Results/confusion_matrix.png' width=700> 
+  
+  - Classification Report:
+  <img src='https://github.com/npantfoerder/UCB-final-project/blob/master/Model/Results/classification_report.png' width=400>
 
 ## Future Analysis
 - Common phrases could be further explored to determine the impact of word order
