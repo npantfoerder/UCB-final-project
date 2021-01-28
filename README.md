@@ -28,3 +28,7 @@ My group decided on the topic of predicting musical genres because of our common
 - Filtering the data to only include songs with matching categories and genres, the accuracy increased to 72.1%
 - The model's weighted average precision score was 0.73
 - The model's weighted average recall score was 0.72
+
+## Resources
+- Data Sources: Spotify and Genius APIs
+- Software: Python 3.7.3, Anaconda 4.8.3, Scikit-learn 0.23.1
