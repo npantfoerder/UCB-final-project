@@ -1,4 +1,5 @@
-# UCB Final Project
+# UCB Final Project: Predicting Musical Genres
+
 ## Link to Google Slides Presentation
 https://docs.google.com/presentation/d/1nddvQA9pJ1J52MaG6unWViKxsb_lgtQ5arq4Pr88yl0/edit?usp=sharing 
 
